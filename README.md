@@ -4,6 +4,10 @@
 
 ### Build • Learn • Improve
 
-Turning ideas into real projects. 💻
+**Turning ideas into real projects. 💻**
+
+---
+
+💻 Coding • 🎮 Games • 🌐 Web • 🧠 Experiments
 
 </div>
