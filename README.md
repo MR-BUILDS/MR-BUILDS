@@ -1,13 +1,9 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.png" alt="MR Builds Banner">
+</p>
 
-# MR BUILDS 🚀
+<h1 align="center">MR BUILDS 🚀</h1>
 
-### Build • Learn • Improve
-
-**Turning ideas into real projects. 💻**
-
----
-
-💻 Coding • 🎮 Games • 🌐 Web • 🧠 Experiments
-
-</div>
+<p align="center">
+  Build • Learn • Improve
+</p>
